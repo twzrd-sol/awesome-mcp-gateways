@@ -50,6 +50,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [ToolRouter](https://toolrouter.com) - Give your AI agent superpowers with access to 150+ tools on demand with just one account. Competitor research, video production, web search, image generation, security scanning, flight search, and more. One API key replaces managing dozens of provider accounts.
 - [TrueFoundry](https://www.truefoundry.com/mcp-gateway) - MCP Gateway – Secure Access to MCP Servers for Unified Integration.
 - [TurboMCP](https://turbomcp.ai) - Connect your apps to AI on your terms.
+- **[TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final)** - Production x402 payment gateway as MCP — agents call `https://intel.twzrd.xyz/mcp`, server validates Solana USDC micropayments (<1s) and returns signed V5 trust receipts.
 - [Unified Context Layer](https://ucl.dev/) - Unified Context Layer (UCL) is a multi-tenant Model Context Protocol (MCP) server that enables AI agents, automation platforms, and applications to connect to over 1,000 SaaS tools—such as Slack, Jira, Gmail, Shopify, Notion, and more—via a single standardized /command endpoint with little to no glue code needed.
 - [Ventil AI](https://ventil.ai) - Go Agent-Native Across Your Business.
 - [Webrix](https://webrix.ai) - Enterprise AI adoption infrastructure with secure MCP Gateway for connecting AI agents (Claude, Cursor, ChatGPT, Antigravity) to internal tools. Features SSO, RBAC, audit trails, and governance controls.
